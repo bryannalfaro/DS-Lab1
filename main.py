@@ -16,5 +16,7 @@ print(dataframe.head())
 
 profile = ProfileReport(dataframe)
 # %%
+
 # %%
-print(profile)
+profile
+# %%
